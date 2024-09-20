@@ -1,0 +1,3 @@
+James Steward;Calculo ;300;200; outra sinopse maluca;Matematica;3;1
+Macchiavelli;O principe ;250;50;sinopse maluca;Filosofia;1;2
+James Steward;Calculo ;300;200; outra sinopse maluca;Fisica;3;1

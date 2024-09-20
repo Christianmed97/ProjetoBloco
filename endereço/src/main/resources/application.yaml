@@ -1,0 +1,25 @@
+app:
+  myport: ${PORT:0}
+spring:
+  application:
+    name: endereco-service
+  datasource:
+    url: jdbc:h2:mem:endereco
+    username: sa
+    password: 
+    driver-class-name: org.h2.Driver
+  h2: 
+    console:
+      enabled: true
+      settings:
+        web-allow-others: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+server:
+  port: ${app.myport}
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.value}
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka

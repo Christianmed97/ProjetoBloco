@@ -1,0 +1,7 @@
+B;22631-054;Biblioteca1;biblioteca1@hotmail.com
+L;Tolkien;Senhor dos aneis;576;100;Seila;fantasia;false;livro
+A;James Steward;Calculo ;300;200; outra sinopse maluca;Matematica;3
+B;20271-010;Biblioteca2;biblioteca2@hotmail.com
+L;Tradd Moore;Motoqueiro Fantasma Vol.1;140;99;sinopse doida;fantasia;false;quadrinho
+L;Mauricio de Souza;Turma da monica Vol.5;20;10;sinopse louca;drama;true;quadrinho
+A;Macchiavelli;O principe ;250;50;sinopse maluca;Filosofia;1
